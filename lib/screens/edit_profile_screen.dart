@@ -18,9 +18,9 @@ class _EditProfileScreenState extends State<EditProfileScreen> {
   static const Color _softSalmon = Color(0xFFFDEEE7);
   static const Color _navShade = Color(0xFFF7F3FB);
 
-  final TextEditingController _nameController = TextEditingController(text: "Eya HAOUAS");
-  final TextEditingController _emailController = TextEditingController(text: "eya.haouas@email.com");
-  final TextEditingController _phoneController = TextEditingController(text: "+216 99 795 127");
+  final TextEditingController _nameController = TextEditingController(text: "*** ***");
+  final TextEditingController _emailController = TextEditingController(text: "exemple@email.com");
+  final TextEditingController _phoneController = TextEditingController(text: "+216 XX XXX XXX");
   final TextEditingController _addressController = TextEditingController(text: "Sousse, Tunisia");
 
   @override
